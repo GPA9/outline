@@ -1,0 +1,12 @@
+div {
+    width: 80px;
+    height: 80px;
+    background-color: red;
+}
+.box {
+    outline: yellowgreen dotted thick;
+
+}
+.box:hover {
+    outline: black dotted thick;
+}
